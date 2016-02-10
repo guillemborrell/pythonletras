@@ -7,3 +7,5 @@ progamación en Python.
 
 Seguir este tutorial es sencillo, basta con avanzar capítulo por
 capítulo y completar los ejercicios propuestos.
+
+#. `Primer paso. Instalar lo necesario <instalar/>`_.
